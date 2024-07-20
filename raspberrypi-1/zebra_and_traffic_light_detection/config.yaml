@@ -1,0 +1,4 @@
+model: yolov5s  # 模型类型
+conf_thres: 0.5  # 置信度阈值
+iou_thres: 0.4  # IoU 阈值
+device: cpu  # 使用 CPU
