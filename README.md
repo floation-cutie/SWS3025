@@ -19,7 +19,7 @@ Due to hardware limitation, we couldn't perform PCB soldering.
 So you can see our DuPont lines flying everywhere.
 
 And speaking of systematic design, we use HTTP
- for general communication method.So if you want to dive into embedded zone, 
+ as general communication method.So if you want to dive into embedded zone, 
 you should learn about MQTT stuffs...
 
 Last but not least, our project is more like a toy and intro, 
